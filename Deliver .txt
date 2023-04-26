@@ -1,0 +1,56 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="">
+<!--<![endif]-->
+<head>Michael McKinney,CTI110-0001
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Striped Umbrella TTRPG Resort and Spa</title>
+<link href="boilerplate.css" rel="stylesheet" type="text/css">
+<link href="su_styles.css" rel="stylesheet" type="text/css">
+<!-- 
+To learn more about the conditional comments around the html tags at the top of the file:
+paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
+
+Do the following if you're using your customized build of modernizr (http://www.modernizr.com/):
+* insert the link to your js here
+* remove the link below to the html5shiv
+* add the "no-js" class to the html tags at the top
+* you can also remove the link to respond.min.js if you included the MQ Polyfill in your modernizr build 
+-->
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="respond.min.js"></script>
+<meta name="description" content="The Striped Umbrella is a full service Larping and TTRPG resort where Fans of Many diffrent genras meet and rollplay their favorite charachers. ">
+</head>
+<body>
+	<div class="gridContainer clearfix">
+<div id="content" class="fluid">
+  <header class="fluid header_div">At the End </header>
+		  <div class="fluid intro_paragraph">
+		    <p>
+		      <nav class="intro_paragraph"><a href="index.html">Home</a>- <a href="about_Us.html">About Me</a>-<a href="Spa.html">Books</a>-<a href="cafe.html">Feedback</a>-<a href="activities.html">Contact Me/ Socials</a></nav>
+		    </p>
+		    <p>
+	          <nav class="intro_paragraph"></nav>
+	        Welcome to At the End. We are a table top roll playing company. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod   tempor incididunt ut labore et dolore magna aliqua. Mauris cursus mattis   molestie a iaculis at erat pellentesque. Ipsum faucibus vitae aliquet   nec ullamcorper. Aliquam faucibus purus in massa tempor nec feugiat.   Vitae elementum curabitur vitae nunc sed. Amet venenatis urna cursus   eget nunc scelerisque. Dignissim convallis aenean et tortor at risus. Et   ultrices neque ornare aenean. Aliquet bibendum enim facilisis gravida   neque convallis a cras semper. Amet consectetur adipiscing elit ut   aliquam purus sit amet. Cras ornare arcu dui vivamus arcu. Leo urna   molestie at elementum eu facilisis sed odio. Arcu felis bibendum ut   tristique et egestas. Massa sapien faucibus et molestie. Iaculis eu non   diam phasellus vestibulum. Nulla facilisi morbi tempus iaculis urna id   volutpat lacus. Aliquam malesuada bibendum arcu vitae elementum   curabitur vitae nunc sed. Enim eu turpis egestas pretium aenean pharetra   magna ac. Neque volutpat ac tincidunt vitae semper quis.</p>
+            <p><em><strong>7990 Arco Corporaate Dr Shoppes at Brier Creek <br>
+            Brier Creek, North Carolina, 27617<br>
+            555,555,5555</strong></em></p>
+            <p>Mjmckinney@my.waketech.edu </p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+		  </div>
+</div>
+<div class="fluid footer_div"><span class="small_text">Copyright 2002 - 2016<br>
+Last updated on February 13, 2023</span></div><meta name="keywords" content="Striped Umbrella, TTRPG, Spa,Resort, Dungeons and Dragons, Hogwarts Legacy,Larp 
+">
+
+</div><li></li>
+</body>
+</html>
